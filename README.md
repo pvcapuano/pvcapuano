@@ -10,7 +10,6 @@
 
 <h3>I'm a Front-End Developer from Brazil. I'm passionate about solving problems through lines of code. My objective with software is always to create functional interfaces with a focus on user experience.</h3>
 <h3>I have some hobbies like play guitar and drums, cook, take care of my dogs and watch movies and series.</h3>
-<br>
 
 ---
 
@@ -31,6 +30,3 @@
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
-  
- <br>
-  
