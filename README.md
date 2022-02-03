@@ -1,10 +1,26 @@
-<h1>Olá! Eu sou o Paulo Victor</h1> 
-<h3>Sou desenvolvedor web Front-End</h3>
+<h1>Hello, my name is Paulo Victor.</h1> 
+
+<div> 
+ <a href="https://www.linkedin.com/in/pvcapuano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+ <a href="https://discord.gg/3DNWZStNJb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:pvcapuano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+  
+---  
+
+<h3>I'm a Front-End Developer from Brazil. I'm passionate about solving problems through lines of code. My objective with software is always to create functional interfaces with a focus on user experience.</h3>
+<h3>I have some hobbies like play guitar and drums, cook, take care of my dogs and watch movies and series.</h3>
 <br>
+
+---
+
+
 <div>
   <a href="https://github.com/pvcapuano">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pvcapuano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvcapuano&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pvcapuano&count_private=true&show_icons=true&theme=tokyonight"/>
+    <br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvcapuano&layout=compact&theme=tokyonight"/>
+   
 </div>
   
 <div style="display: inline_block"><br>
@@ -17,8 +33,4 @@
 </div>
   
  <br>
-  <div> 
- <a href="https://www.linkedin.com/in/pvcapuano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
- <a href="https://discord.gg/3DNWZStNJb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pvcapuano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+  
