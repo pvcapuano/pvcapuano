@@ -17,7 +17,6 @@
 <div>
   <a href="https://github.com/pvcapuano">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pvcapuano&count_private=true&show_icons=true&theme=tokyonight"/>
-    <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvcapuano&layout=compact&theme=tokyonight"/>
    
 </div>
