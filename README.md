@@ -8,7 +8,7 @@
   
 ---  
 
-<h3>I'm a Front-End Developer from Brazil. I'm passionate about solving problems through lines of code. My objective with software is always to create functional interfaces with a focus on user experience.</h3>
+<h3>I'm a Software Engineer from Brazil. I'm passionate about solving problems through lines of code. My objective with software is always to create functional interfaces with a focus on user experience.</h3>
 <h3>I have some hobbies like play guitar, cook, take care of my dogs and watch movies and series.</h3>
 
 ---
