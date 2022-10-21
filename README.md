@@ -1,4 +1,4 @@
-<h1>Hello, my name is Paulo Victor.</h1> 
+<h1>Hey, I'm Paulo Victor.</h1> 
 
 <div> 
  <a href="https://www.linkedin.com/in/pvcapuano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
