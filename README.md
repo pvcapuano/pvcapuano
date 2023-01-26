@@ -1,7 +1,7 @@
 <h1>Paulo Victor</h1>
 <h3>:computer: Desenvolvedor Front-End</h3>
 
-<h3>Louco por música, guitarrista e vidrado por tecnologia e suas infinitas possibilidades. Sou apaixonado por resolver problemas através de linhas de código. Sou formado em Administração e migrei de carreira em 2020.</h3>
+<h3>Louco por música, guitarrista e vidrado por tecnologia e suas infinitas possibilidades. Sou apaixonado por resolver problemas através de linhas de código. Sou formado em Administração e migrei de carreira em 2020 e não me vejo fazendo outra coisa da vida.</h3>
 <h3>Meus principais hobbies nas horas vagas são tocar guitarra, experimentar receitas novas na cozinha, cuidar dos meus cachorros e assistir filmes e séries (meu tema favorito é máfia).</h3>
 
 ----
@@ -12,15 +12,19 @@
  <summary><strong>Curiosidades</strong></summary>
   <br>
     <div align="left">
-Atuo como Desenvolvedor Front-End desenvolvendo aplicações web focado em entregar uma interface de qualidade e com a melhor experiencia possivel para o usuario. No Back-End desenvolvo API Rests e tenho conhecimento sobre banco de dados como PostgreSQL e MongoDB. Tenho experiência com os sistemas operacionais como Windows, MacOS e Linux (Ubuntu LTS) e uma noção de Terraform, Docker e AWS.
+Atuo como Desenvolvedor Front-End desenvolvendo aplicações web focado em entregar uma interface de qualidade e com a melhor experiencia possivel para o usuario. No Back-End desenvolvo API Rest e tenho conhecimento sobre banco de dados como <strong>PostgreSQL</strong> e <strong>MongoDB</strong>. Tenho experiência com sistemas operacionais como <strong>Windows</strong>, <strong>MacOS</strong> e <strong>Linux (Ubuntu LTS)</strong> e uma noção de <strong>Terraform</strong>, <strong>Docker</strong> e <strong>AWS</strong>.
     </div>
   <br>
     <div align="left">
 Estudo constantemente <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong> e <strong>Node</strong>.
     </div>
   <br>
+    <div align="left">
+    Tenho o certificado da <a href="https://www.credly.com/badges/2766bb63-020f-4bc8-866b-ea61b6528fd8/linked_in_profile" target="_blank">AWS Cloud Practitioner</a>.
+    </div>
+  <br>
   <div align="left">
-Pergunte-me sobre <strong>qualquer coisa!</strong> Se eu puder ajudar, será um prazer!
+Pergunte-me sobre <strong>qualquer coisa!</strong> Será um prazer ajudar!
   </div>
   <br>
 </details>
