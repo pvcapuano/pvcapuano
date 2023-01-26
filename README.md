@@ -12,7 +12,7 @@
  <summary><strong>Curiosidades</strong></summary>
   <br>
     <div align="left">
-Atuo como Desenvolvedor Front-End desenvolvendo aplicações web focado em entregar uma interface de qualidade e com a melhor experiencia possivel para o usuario. No Back-End desenvolvo API Rests e conhecimento de banco de dados como PostgreSQL e MongoDB. Tenho experiência com os sistemas operacionais como Windows, MacOS e Linux (Ubuntu LTS) e uma noção de Terraform, Docker e AWS.
+Atuo como Desenvolvedor Front-End desenvolvendo aplicações web focado em entregar uma interface de qualidade e com a melhor experiencia possivel para o usuario. No Back-End desenvolvo API Rests e tenho conhecimento sobre banco de dados como PostgreSQL e MongoDB. Tenho experiência com os sistemas operacionais como Windows, MacOS e Linux (Ubuntu LTS) e uma noção de Terraform, Docker e AWS.
     </div>
   <br>
     <div align="left">
