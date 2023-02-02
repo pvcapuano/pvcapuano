@@ -8,7 +8,6 @@
 
 <h2>Mais sobre mim</h2>
 
-<details>
  <summary><strong>Curiosidades</strong></summary>
   <br>
     <div align="left">
@@ -27,9 +26,7 @@ Estudo constantemente <strong>JavaScript</strong>, <strong>TypeScript</strong>, 
 Pergunte-me sobre <strong>qualquer coisa!</strong> Será um prazer ajudar!
   </div>
   <br>
-</details>
 
-<details>
  <summary><strong>Tecnologias com que trabalho</strong></summary>
   <br>
  <div style="display: inline_block"><br>
@@ -52,9 +49,7 @@ Pergunte-me sobre <strong>qualquer coisa!</strong> Será um prazer ajudar!
   <img align="center" alt="MongoDB-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
 </div>
  <br>
-</details>
 
-<details>
  <summary><strong>Gráfico de Atividades do GitHub</strong></summary>  
   <br>
     <div align="left">
@@ -66,9 +61,7 @@ Pergunte-me sobre <strong>qualquer coisa!</strong> Será um prazer ajudar!
       <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pvcapuano&theme=tokyonight"/>
     </div>
   <br>
-</details>
   
-<details>
  <summary><strong>Contato</strong></summary>
   <br>
     <div align="left">
@@ -76,6 +69,5 @@ Pergunte-me sobre <strong>qualquer coisa!</strong> Será um prazer ajudar!
   <a href = "mailto:pvcapuano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </div>
   <br>
-</details>
 
  <h2>:pushpin: Principais projetos :arrow_heading_down:</h2>
