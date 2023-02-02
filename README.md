@@ -8,7 +8,7 @@
 
 <h2>Mais sobre mim</h2>
 
- <summary><strong>Curiosidades</strong></summary>
+ <h3><strong>Curiosidades:</strong></h3>
   <br>
     <div align="left">
 Atuo como Desenvolvedor Front-End desenvolvendo aplicações web focado em entregar uma interface de qualidade e com a melhor experiencia possivel para o usuario. No Back-End desenvolvo API Rest e tenho conhecimento sobre banco de dados como <strong>PostgreSQL</strong> e <strong>MongoDB</strong>. Tenho experiência com sistemas operacionais como <strong>Windows</strong>, <strong>MacOS</strong> e <strong>Linux (Ubuntu LTS)</strong> e uma noção de <strong>Terraform</strong>, <strong>Docker</strong> e <strong>AWS</strong>.
@@ -27,7 +27,7 @@ Pergunte-me sobre <strong>qualquer coisa!</strong> Será um prazer ajudar!
   </div>
   <br>
 
- <summary><strong>Tecnologias com que trabalho</strong></summary>
+ <h3><strong>Tecnologias com que trabalho:</strong></h3>
   <br>
  <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
@@ -50,7 +50,7 @@ Pergunte-me sobre <strong>qualquer coisa!</strong> Será um prazer ajudar!
 </div>
  <br>
 
- <summary><strong>Gráfico de Atividades do GitHub</strong></summary>  
+ <h3><strong>Gráfico de Atividades do GitHub:</strong></h3>  
   <br>
     <div align="left">
       <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pvcapuano&layout=compact&theme=tokyonight"/>
@@ -62,7 +62,7 @@ Pergunte-me sobre <strong>qualquer coisa!</strong> Será um prazer ajudar!
     </div>
   <br>
   
- <summary><strong>Contato</strong></summary>
+ <h3><strong>Contato:</strong></h3>
   <br>
     <div align="left">
       <a href="https://www.linkedin.com/in/pvcapuano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
